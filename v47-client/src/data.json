@@ -1,0 +1,165 @@
+[
+  {
+    "categoryName": "ROUTINE ACTIVITIES",
+    "activityTypes": [
+      {
+        "activityName": "Projects",
+        "Tasks": [
+          {
+            "taskName": "Update Recipes Project Backlog",
+            "taskDescription": "Update the project backlog tasks",
+            "days": "2024-02-17",
+            "column": "Not Started"
+          },
+          {
+            "taskName": "Study The First Node Js Lecture",
+            "taskDescription": "",
+            "days": "2024-02-17",
+            "column": "Done"
+          },
+          {
+            "taskName": "Update The dailyTasks sheet with the backlog tasks",
+            "taskDescription": "add the filtering feature to Done",
+            "days": "2024-02-17",
+            "column": "In Progress"
+          }
+        ]
+      },
+      {
+        "activityName": "Blog Posts",
+        "Tasks": [
+          {
+            "taskName": "Publish The recent Blog Post Draft to hashnode",
+            "taskDescription": "Publish the latest blog post",
+            "days": "2024-02-17",
+            "column": "Done"
+          },
+          {
+            "taskName": "Write a New headline in a Blog Post Draft",
+            "taskDescription": "Write a catchy headline for a new blog post",
+            "days": "2024-02-17",
+            "column": "Not Started"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "STUDYING",
+    "activityTypes": [
+      {
+        "activityName": "Node Js Course",
+        "Tasks": [
+          {
+            "taskName": "Plan The Node Js Course Progress By Month",
+            "taskDescription": "Set Up A Plan For The Next Month Of Node Js Learning",
+            "days": "2024-02-17",
+            "column": "In Progress"
+          },
+
+          {
+            "taskName": "Study The First Node Js Lecture",
+            "taskDescription": "",
+            "days": "2024-02-17",
+            "column": "Done"
+          }
+        ]
+      },
+      {
+        "activityName": "MongoDB",
+        "Tasks": [
+          {
+            "taskName": "Plan The MongoDB Course Progress By Month",
+            "taskDescription": "Set Up A Plan For The Next Month Of Node Js Learning",
+            "days": "2024-02-17",
+            "column": "Not Started"
+          },
+          {
+            "taskName": "Study The First MongoDB Lecture",
+            "taskDescription": "",
+            "days": "2024-02-17",
+            "column": "Not Started"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "DAILY TASKS PROJECT",
+    "activityTypes": [
+      {
+        "activityName": "Backlog",
+        "Tasks": [
+          {
+            "taskName": "Add The New Features list",
+            "taskDescription": "",
+            "days": "2024-02-17",
+            "column": "In Progress"
+          },
+          {
+            "taskName": "Add The New PRs To InReview",
+            "taskDescription": "",
+            "days": "2024-02-17",
+            "column": "In Progress"
+          }
+        ]
+      },
+      {
+        "activityName": "Coding",
+        "Tasks": [
+          {
+            "taskName": "Work On The Sidebar",
+            "taskDescription": "Add The Sections Links",
+            "days": "2024-02-17",
+            "column": "Not Started"
+          },
+          {
+            "taskName": "Refactor The Filtering Feature Code",
+            "taskDescription": "",
+            "days": "2024-02-17",
+            "column": "Done"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "CHINGU",
+    "activityTypes": [
+      {
+        "activityName": "Voyage",
+        "Tasks": [
+          {
+            "taskName": "Conduct The Project Planning Meeting",
+            "taskDescription": "Conduct The Project Planning Meeting To Discuss Our Ideas",
+            "days": "2024-02-17",
+            "column": "Done"
+          },
+          {
+            "taskName": "Create The UI/UX Design For The DailyTasks Project",
+            "taskDescription": "Create The UI/UX Design For The DailyTasks Project Based On The Team Discussion",
+            "days": "2024-02-17",
+            "column": "Not Started"
+          }
+        ]
+      },
+      {
+        "activityName": "Pair Programming",
+        "Tasks": [
+          {
+            "taskName": "Create When2Meet Link",
+            "taskDescription": "Create When2Meet Link To Introduce Yourselves",
+            "days": "2024-02-17",
+            "column": "In Progress"
+          },
+          {
+            "taskName": "Attend The Introduction Meeting With Someone",
+            "taskDescription": "",
+            "days": "2024-02-17",
+            "column": "Done"
+          }
+        ]
+      }
+    ]
+  }
+]
